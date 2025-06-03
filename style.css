@@ -43,3 +43,42 @@ footer {
   position: relative;
   bottom: 0;
 }
+
+
+header {
+  background: #2e7d32;
+  color: #fff;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0.2rem 0;
+  font-size: 1.8rem;
+}
+
+header p {
+  margin: 0.2rem 0;
+  font-size: 1rem;
+}
+
+.work-link {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.work-link a {
+  background-color: #2e7d32;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.work-link a:hover {
+  background-color: #1b5e20;
+}
+
