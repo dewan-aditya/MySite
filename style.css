@@ -82,3 +82,25 @@ header p {
   background-color: #1b5e20;
 }
 
+.certifications {
+  background-color: #e8f5e9; /* Light green background for subtle emphasis */
+  border-left: 6px solid #2e7d32; /* Green border on the left for visual distinction */
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.certifications h2 {
+  color: #1b5e20; /* Slightly darker green for heading */
+  margin-top: 0;
+}
+
+.certifications ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.certifications li {
+  margin-bottom: 0.5rem;
+}
+
